@@ -10,7 +10,7 @@ PharosSwap combines the best of **veDEX mechanics** with concentrated liquidity 
 | Feature          | Benefit                                                                 |
 |------------------|-------------------------------------------------------------------------|
 | Smart Routing    | Minimal price impact across volatile/stable pools                      |
-| Fee Distribution | 100% of protocol fees go to $vePHAROS holders                          |
+| Fee Distribution | 100% of protocol fees go to $vePHAS holders                          |
 | Batch Farming    | Deposit, stake, and claim in one transaction                           |
 | Launchpad        | Dedicated infrastructure for Pharos projects                      |
 
